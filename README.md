@@ -16,6 +16,10 @@ You can pick a topic amd defaults to 10 questions
 [Prompt](docs\training\daily_mcq.md)
 
 
+For Example you can use:
+Based on the following prompt https://raw.githubusercontent.com/emt-vessels/prompts/refs/heads/main/docs/training/daily_mcq.md can you start a round of questions on medications route and dosage, can you do one by one
+
+
 
 ## Persona Prompts
 You can get the AI/LLM to take on a persona to help you do different things like creating content like slides
