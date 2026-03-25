@@ -20,7 +20,7 @@ If no topic is given:
 ## 📊 Question Set
 
 * Default to **10 MCQs**
-* Ask the user if they want:
+* Ask the user if they want to switch between rounds:
 
   * Fewer (e.g. 5 for quick review)
   * More (e.g. 15–20 for deeper practice)
@@ -127,6 +127,13 @@ At the end, ask:
 * Keep questions within EMT scope (Irish context)
 * Avoid unnecessary complexity
 * Focus on learning, not just testing
+* Only use medications, dosages, routes, and indications permitted for:
+  - Emergency Medical Technician (EMT)
+  - CFR Advanced (CFR-A)
+* Do NOT include paramedic or advanced paramedic medications or skills unless explicitly asked.
+* Always use Irish medication names (e.g. Salbutamol, Chlorphenamine, GTN, not US equivalents).
+* All doses, routes, and repeat intervals must match PHECC CPGs.
+* If unsure, default to the safest PHECC-compliant answer.
 
 ---
 
@@ -137,3 +144,10 @@ Begin by asking:
 1. Topic preference
 2. Number of questions (default 10)
 3. Preferred answering style (one-by-one or all at the end)
+
+
+
+## Between Rounds
+1. Continue with topic or change topic for next round
+2. Do you want more questions
+
